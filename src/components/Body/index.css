@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.body-con {
+  display: flex;
+  justify-content: space-between;
+  height: 60%;
+}
+
+.left-right-nav-con {
+  background-color: #e2e8f0;
+  padding: 20px;
+  color: #475569;
+  width: 30%;
+}
+
+.context-nav-con {
+  background-color: #f1f5f9;
+  width: 35%;
+  padding: 20px;
+  color: #475569;
+  margin-left: 2px;
+  margin-right: 2px;
+  flex-grow: 1;
+}
+
+ul {
+  padding-left: 10px;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.navs-head {
+  font-size: 20px;
+}
+
+.add-box {
+  border: 1px solid #64748b;
+  border-radius: 5pxx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+}

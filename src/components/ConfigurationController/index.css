@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.configuration-con {
+  background-color: #475569;
+  color: #f1f5f9;
+  padding: 10px 40px;
+}
+
+.layout-heading {
+  margin-top: 0px;
+  font-weight: 500;
+}
+
+.label-n {
+  font-size: 14px;
+  margin-left: 10px;
+}
